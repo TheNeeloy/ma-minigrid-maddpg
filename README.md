@@ -32,7 +32,7 @@ To train an example in the MPE env:
 ```
 python main.py --mpe
 ```
-To visualize a model from the MiniGrid env:
+To visualize a model from the MPE env:
 ```
 python evaluate.py --mpe
 ```
